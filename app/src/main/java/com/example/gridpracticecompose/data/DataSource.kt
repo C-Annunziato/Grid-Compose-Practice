@@ -24,7 +24,8 @@ data class Topic(
                 Topic(R.string.lifestyle, 305, R.drawable.lifestyle),
                 Topic(R.string.music, 212, R.drawable.music),
                 Topic(R.string.painting, 172, R.drawable.painting),
-                Topic(R.string.tech, 118, R.drawable.tech)
+                Topic(R.string.tech, 118, R.drawable.tech),
+                Topic(R.string.photography, 321, R.drawable.photography),
             )
         }
     }

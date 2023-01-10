@@ -76,7 +76,7 @@ fun TopicCard(topic: Topic, modifier: Modifier = Modifier) {
                 Column {
                     Text(
                         text = stringResource(id = topic.topic),
-                        style = MaterialTheme.typography.body2,
+                        style = MaterialTheme.typography.subtitle2,
                         modifier = Modifier.padding(
                             start = 16.dp,
                             top = 16.dp,
